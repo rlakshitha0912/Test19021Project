@@ -9,11 +9,6 @@
         <value name="isSecure">true</value>
       </record>
       <record javaclass="com.wm.data.ISMemDataImpl">
-        <value name="key">qq</value>
-        <value name="value">12</value>
-        <value name="isSecure">false</value>
-      </record>
-      <record javaclass="com.wm.data.ISMemDataImpl">
         <value name="key">a</value>
         <value name="value">qq</value>
         <value name="isSecure">false</value>
