@@ -23,6 +23,11 @@
         <value name="value">gvhandle.asd</value>
         <value name="isSecure">true</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">qee</value>
+        <value name="value">1</value>
+        <value name="isSecure">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
