@@ -7,17 +7,19 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="AbhiPackages">1.0</value>
+  </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">22</value>
+  <value name="build">23</value>
   <null name="description"/>
   <value name="created_date">19-02-2025 04:41:01 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-02-19T15:31:03.869248208Z</value>
+  <value name="lastUpdated">2025-02-24T11:52:20.258009452Z</value>
   <value name="wmProjectId">fl6f5af69be6ec2b770397f7</value>
   <value name="creator">Lakshitha Ramesh</value>
 </Values>
