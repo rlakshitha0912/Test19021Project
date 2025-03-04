@@ -5,7 +5,7 @@
     <array name="globalVariables" type="record" depth="1">
       <record javaclass="com.wm.data.ISMemDataImpl">
         <value name="key">a</value>
-        <value name="value">23</value>
+        <value name="value">231</value>
         <value name="isSecure">false</value>
       </record>
       <record javaclass="com.wm.data.ISMemDataImpl">
